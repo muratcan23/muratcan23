@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Reminder](https://github.com/users/kod-man/projects/4/views/1)
 
-- 🌱 I’m currently learning **React and type script**
+- 🌱 I’m currently learning **React and typescript**
 
 - Most of my projects are available at [https://github.com/muratcan23](https://github.com/muratcan23)
 
