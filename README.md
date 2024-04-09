@@ -10,7 +10,7 @@
 - 🌱 I'm  currently  improving my  **React and Typescript** skills
 
 - Most of my projects are available at [https://github.com/muratcan23](https://github.com/muratcan23)
--               Most of my projects are available at [https://github.com/muratcan23?tab=repositories
+- Most of my projects are available at https://github.com/muratcan23?tab=repositories
 
 - 📫 How to reach me **muratal0606@gmail.com**
 - 🌐 Welcome to my own portfolio page  **https://muratcan23.github.io/myportfolio/**
