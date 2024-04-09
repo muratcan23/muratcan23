@@ -8,8 +8,6 @@
 - 🔭 My current project is [ecommerce](https://github.com/muratcan23/ecommerce)
 
 - 🌱 I'm  currently  improving my  **React and Typescript** skills
-
-- Most of my projects are available at [https://github.com/muratcan23](https://github.com/muratcan23)
 - Most of my projects are available at https://github.com/muratcan23?tab=repositories
 
 - 📫 How to reach me **muratal0606@gmail.com**
