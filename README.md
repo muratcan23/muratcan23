@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratcan23" alt="muratcan23" /></a> </p>
 
-- 🔭 My current project is [https://github.com/muratcan23/MERN
+- 🔭 My current project is [MERN](https://github.com/muratcan23/MERN)
 
 - 🌱 I'm  currently  improving my  **React and Typescript** skills
 - 💾 Most of my projects are available at https://github.com/muratcan23?tab=repositories
