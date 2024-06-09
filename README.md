@@ -7,7 +7,7 @@
 
 - 🔭 My current project is [MERN-BookStore](https://github.com/muratcan23/mern-bookstore)
 
-- 🌱 I'm  currently  improving my  **React and Typescript** skills
+- 🌱 I'm  currently  improving myself to become  a proficient  **Full-Stack Developer**
 - 💾 Most of my projects are available at https://github.com/muratcan23?tab=repositories
 
 - 📫 How to reach me **muratal0606@gmail.com**
