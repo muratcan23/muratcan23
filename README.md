@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratcan23" alt="muratcan23" /></a> </p>
 
-- 🔭 My current project is [MERN-BookStore](https://github.com/muratcan23/mern-bookstore)
+- 🔭 My current project is [filmolog ](https://github.com/muratcan23/blog)
 
 - 🌱 I'm  currently  improving myself to become  a proficient  **Full-Stack Developer**
 - 💾 Most of my projects are available at https://github.com/muratcan23?tab=repositories
